@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = AJRingrose92@gmail.com
+	name = Adam Ringrose
